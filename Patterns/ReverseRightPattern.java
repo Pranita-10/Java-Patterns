@@ -1,3 +1,4 @@
+
 public class ReverseRightPattern {
     public static void main(String[] args) {
         int rows = 5; // Number of rows for the reverse right triangle pattern
